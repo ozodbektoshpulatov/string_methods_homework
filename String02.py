@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
     
-    return
+    return 'assalomu alaykum'.upper()
+print(main('s'))
