@@ -7,4 +7,5 @@ def main(s):
         bool: answer
     """
     
-    return
+    return 'ozodbektoshpulatovisthebestever'.isalpha()
+print(main('s'))
