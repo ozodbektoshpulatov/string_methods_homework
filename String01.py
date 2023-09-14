@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
+    return 'assalomu alaykum'.title()
+print(main('s'))
     
-    return
