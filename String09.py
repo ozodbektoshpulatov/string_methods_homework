@@ -6,5 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    
-    return
+    return "satisfying".count("a")
+print(main('s'))
+
