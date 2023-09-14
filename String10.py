@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
     
-    return
+    return "Maxpratxon".index("x")
+print(main('s'))
