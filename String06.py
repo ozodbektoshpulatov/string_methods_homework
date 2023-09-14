@@ -7,4 +7,5 @@ def main(s):
         bool: answer
     """
     
-    return
+    return '12345dyh78j98jjt76fd'.isdigit()
+print(main('s'))
