@@ -7,4 +7,5 @@ def main(s):
         bool: answer
     """
     
-    return
+    return 'OZODBEKToSHPULATOVISTHEBESTEVER'.isupper()
+print(main('s'))
