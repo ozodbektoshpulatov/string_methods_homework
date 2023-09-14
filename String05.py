@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
     
-    return
+    return 'assaLOmu aLAykuM, GTR'.capitalize()
+print(main('s'))
